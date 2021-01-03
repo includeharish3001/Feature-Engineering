@@ -1,2 +1,1 @@
-# Feature-Engineering
-All the basic feature engineering techniques
+# Feature-Engineering-Live-sessions
